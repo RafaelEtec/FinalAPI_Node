@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RafaelEtec/FinalApiNode/tree/master.git"
+    "url": "git+https://github.com/RafaelEtec/FinalAPI_Node/tree/master.git"
   },
   "keywords": [],
   "author": "Rafael Ferreira Goulart",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/RafaelEtec/FinalApiNode/issues"
+    "url": "https://github.com/RafaelEtec/FinalAPI_Node/issues"
   },
-  "homepage": "https://github.com/RafaelEtec/FinalApiNode/tree/master#readme",
+  "homepage": "https://github.com/RafaelEtec/FinalAPI_Node/tree/master#readme",
   "dependencies": {
     "json-server": "^0.16.3"
   }
