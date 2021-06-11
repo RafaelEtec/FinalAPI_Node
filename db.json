@@ -1,0 +1,96 @@
+{
+  "familiaSimpsons":[
+    {
+      "id":1,
+      "nome": "Homer",
+      "nomeOriginal": "Homer Jay Simpson",
+      "idade": "39",
+      "ocupação": "Inspetor de segurança"
+    },
+    {
+      "id":2,
+      "nome": "Marge" ,
+      "nomeOriginal": "Marjorie Bouvier Simpson",
+      "idade": "38",
+      "ocupação": "Dona de Casa"
+    },
+    {
+      "id":3,
+      "nome": "Bart",
+      "nomeOriginal": "Bartholomew Jay Simpson",
+      "idade": "10",
+      "ocupação": "Estudante"
+    },
+    {
+      "id":4,
+      "nome": "Lisa",
+      "nomeOriginal": "Lisa Marie Simpson",
+      "idade": "8",
+      "ocupação": "Estudante"
+    },
+    {
+      "id":5,
+      "nome": "Maggie",
+      "nomeOriginal": "Margaret Evelyn Lenny Simpson",
+      "idade": "1",
+      "ocupação": "Bebê"
+    }
+  ],
+  "outrosPersonagens":[
+    {
+      "id":1,
+      "nome": "Ned Flanders",
+      "nomeOriginal": "Nedward Flanders Jr.",
+      "idade": "60",
+      "ocupação": "Farmacêutico"
+    },
+    {
+      "id":2,
+      "nome": "Seymour Skinner",
+      "nomeOriginal": "Armin Tamzarian",
+      "idade": "46",
+      "ocupação": "Diretor da escola Fundamental Springfield"
+    },
+    {
+      "id":3,
+      "nome": "Palhaço Krusty",
+      "nomeOriginal": "Herschel Shmoikel Pinchas Yerucham Krustofsky",
+      "idade": "52",
+      "ocupação": "Palhaço"
+    },
+    {
+      "id":4,
+      "nome": "Sideshowbob",
+      "nomeOriginal": "Robert Underdunk Terwilliger Jr.",
+      "idade": "50",
+      "ocupação":"Criminoso"
+    }
+  ],
+  "dubladores": [
+    {
+      "id": 1,
+      "nome": "Carlos Alberto Vasconcellos",
+      "personagem": "Homer"
+    },
+    {
+      "id": 2,
+      "nome": "Selma Lopes",
+      "personagem": "Marge"
+    },
+    {
+      "id": 3,
+      "nome": "Rodrigo Antas",
+      "personagem": "Bart"
+    },
+    {
+      "id": 4,
+      "nome": "Flávia Saddy",
+      "personagem": "Lisa"
+    },
+    {
+      "id": 5,
+      "nome": "Nancy Cartwright",
+      "personagem": "Maggie"
+    }
+  ]
+}
